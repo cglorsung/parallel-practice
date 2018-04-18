@@ -5,3 +5,4 @@ CMakeFiles
 *.cmake
 src/*.in
 src/Objects
+bin/Makefile
