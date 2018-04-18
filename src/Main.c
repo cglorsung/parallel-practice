@@ -1,6 +1,7 @@
 #include "MainConfig.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <CL/cl.h>
 
 int hello() {
     printf("Hello, world!\n");
@@ -20,7 +21,7 @@ int hello() {
     printf("VALOF *z = 3: x=%d ; y=%d ; z = %d\n", x, y, z);
 
     //Print expected values for last assignment
-    printf("Expecting x, y, z = 3, 0, intMemAddr\n");
+    printf("Expecting x, y, z = 3, 0, intMemAddr");
 
     return 0;
 }
