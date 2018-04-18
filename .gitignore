@@ -2,3 +2,4 @@ CMakeFiles
 .vscode
 *.txt
 *.exe
+*.h.in
