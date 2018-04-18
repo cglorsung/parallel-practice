@@ -1,2 +1,0 @@
-#define Parallel_VERSION_MAJOR @Parallel_VERSION_MAJOR@
-#define Parallel_VERSION_MINOR @Parallel_VERSION_MINOR@
