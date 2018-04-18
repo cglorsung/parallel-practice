@@ -1,0 +1,6 @@
+CMakeFiles
+.vscode
+*.cmake
+*.txt
+*.in
+Makefile
