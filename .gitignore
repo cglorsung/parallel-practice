@@ -3,3 +3,4 @@ CMakeFiles
 *.txt
 *.exe
 src/*.in
+src/Objects
